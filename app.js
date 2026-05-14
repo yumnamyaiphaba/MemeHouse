@@ -309,7 +309,8 @@ const STUDENTS = [
     meme: null, reason: null },
   { name: "YUMNAM YAIPHABA SINGH",
     roll: "NDUIBC2523", course: "BCA (4 Years)", section: "Section B",
-    meme: null, reason: null },
+    meme: /yaipha memes.jpeg
+  , reason: null },
   { name: "SNG KAPHOWLTHA",
     roll: "NDUIBC2524", course: "BCA (4 Years)", section: "Section B",
     meme: null, reason: null },
